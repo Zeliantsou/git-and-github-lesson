@@ -1,2 +1,1 @@
-# git-and-github-lesson
-git and github lesson (IT-academy)
+В репозиторий добавлено Homework - 1 (IT-academy)
